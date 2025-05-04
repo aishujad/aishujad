@@ -1,52 +1,37 @@
-## Hi there 👋
 
-<!--
-**aishujad/aishujad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aishwarya jadhav</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/29c7d96a-92d8-4c54-bae0-5fd727399a5e)]
+>
 
-- I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-B.Com in Computer | Aspiring **Data Analyst**  
-Passionate about turning raw data into actionable insights  
-Constantly learning: Python | SQL | Power BI | Excel | Aptitude | Communication
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishujad&label=Profile%20views&color=0e75b6&style=flat" alt="aishujad" /> </p>
 
----
+- 🔭 I’m currently working on **Sales Data Analysis using Python**
 
- Tools & Technologies I Use
- Python (Pandas, NumPy, Matplotlib)
- SQL (Joins, CTEs, Window Functions, Subqueries)
- Power BI (Dashboards, DAX, Data Modeling)
- MS Excel (Pivot Tables, Conditional Formatting, Dashboards)
- Soft Skills: Communication, Typing, English Speaking
+- 🌱 I’m currently learning **Python, Advance SQL**
 
-*Excel Dashboard**: Cleaned and visualized sales data using Pivot Tables & Charts  
-- **Power BI Report**: Built interactive dashboards from business data  
-- **Python Analysis**: Data analysis using Pandas & Matplotlib on real-world datasets  
+- 👯 I’m looking to collaborate on **MADHAV ECOMMERCE SALES DASHBOARD**
 
-📁 More projects coming soon! Stay tuned.
+- 📫 How to reach me **aishujadhav9211@gmail.com**
 
----
+- 📄 Know about my experiences [Aishwarya jadhav 2.PDF](Aishwarya jadhav 2.PDF)
 
-##Currently Learning
-- Advanced SQL & Power BI
-- Python for Data Analysis
-- Interview & Aptitude Preparation
-- English Communication
-- 
-   Let's Connect
-- 📧 Email: [aishujadhav9211@gmail.com](mailto:aishujadhav9211@gmail.com)
-- 📱 Phone: +91 9381230074
-- 💼 Open to: Data Analyst Internships | Entry-Level Analyst Roles
+- ⚡ Fun fact **I am funny**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aishu jadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishu jadhav" height="30" width="40" /></a>
+<a href="https://kaggle.com/aishwarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aishwarya" height="30" width="40" /></a>
+<a href="https://instagram.com/aishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aishu" height="30" width="40" /></a>
+</p>
 
-> ✨ “I'm not afraid to start from scratch — I'm here to grow, learn, and solve problems with data.”
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishujad&show_icons=true&locale=en&layout=compact" alt="aishujad" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishujad&show_icons=true&locale=en" alt="aishujad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishujad&" alt="aishujad" /></p>
 
